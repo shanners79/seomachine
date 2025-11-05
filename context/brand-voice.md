@@ -5,7 +5,7 @@
      Delete these instruction comments when done.
      See examples/castos/ for a complete real-world example. -->
 
-This document defines the [YOUR COMPANY] brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
+This document defines the FitscorePro brand voice, tone, and messaging framework. Reference this when writing all content to ensure consistency.
 
 ## Brand Voice Pillars
 
